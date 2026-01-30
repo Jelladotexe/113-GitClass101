@@ -2,6 +2,10 @@
 using namespace std;
 
 int main(){
-    cout << "Hello Git in C++" << endl;
+<<<<<<< HEAD
+    cout << "Love C++" << endl;
+=======
+    cout << "Hello C++" << endl;
+>>>>>>> feature2
     return 0;
 }
