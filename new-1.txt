@@ -1,1 +1,3 @@
-add new file in new-1.txt in directory git102
+editing text in new-1.txt
+add new file in new-1.txt in directory git102 + also editing this line
+editing while in branch main and in git102 directory
